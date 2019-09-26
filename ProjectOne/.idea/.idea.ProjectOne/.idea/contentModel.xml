@@ -10,6 +10,7 @@
           <e p="ApplyForce.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="Functions.cs" t="Include" />
           <e p="GetFruit.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
