@@ -13,10 +13,12 @@
           <e p="Functions.cs" t="Include" />
           <e p="GetFruit.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="StartBehaviour.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
+          <e p="UITextController.cs" t="Include" />
           <e p="VarsClass.cs" t="Include" />
         </e>
       </e>
