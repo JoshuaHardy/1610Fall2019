@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d5857dd2c7145d4f88db0a7953059f1, type: 3}
-  m_Name: GreenCircle
+  m_Script: {fileID: 11500000, guid: ad658b191b547ab4a8dba97ae8da50e9, type: 3}
+  m_Name: RedPants
   m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: edf38a40178cf504691d920c53504cd3, type: 3}
-  color: {r: 0, g: 1, b: 0, a: 1}
-  prefab: {fileID: 8821217276306754067, guid: b79c4adfdb2f61b4ca3fcd12a090850a, type: 3}
-  weapon: {fileID: 11400000, guid: 9f833963bf4986a43b3b7684f9d4cc51, type: 2}
+  spriteColor: {r: 1, g: 0, b: 0, a: 1}
+  prefab: {fileID: 8821217276306754067, guid: 810198519d11773418c9345936600bd4, type: 3}

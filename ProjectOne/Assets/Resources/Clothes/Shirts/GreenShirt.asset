@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a63e8262b05b954e9d5795cefcd7759, type: 3}
-  m_Name: Sword
+  m_Script: {fileID: 11500000, guid: ad658b191b547ab4a8dba97ae8da50e9, type: 3}
+  m_Name: GreenShirt
   m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: caf2f1e08908a4e4e96d2f7615ab1fae, type: 3}
-  spriteColor: {r: 0.13578582, g: 1, b: 0, a: 1}
-  prefab: {fileID: 8821217276306754067, guid: 56e301bb46725a940996114a0abd98a7, type: 3}
-  powerLevel: 10
+  spriteColor: {r: 0.25926602, g: 1, b: 0, a: 1}
+  prefab: {fileID: 8821217276306754067, guid: a1e41a264206d644fba8570052cc3bca, type: 3}

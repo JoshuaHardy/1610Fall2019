@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6a63e8262b05b954e9d5795cefcd7759, type: 3}
-  m_Name: Axe
+  m_Name: HandGun
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 7cce088f11ea2944da23c90845350858, type: 3}
-  spriteColor: {r: 1, g: 0, b: 0, a: 1}
+  sprite: {fileID: 21300000, guid: caf2f1e08908a4e4e96d2f7615ab1fae, type: 3}
+  spriteColor: {r: 0.13578582, g: 1, b: 0, a: 1}
   prefab: {fileID: 8821217276306754067, guid: 56e301bb46725a940996114a0abd98a7, type: 3}
-  powerLevel: 5
+  powerLevel: 10

@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d5857dd2c7145d4f88db0a7953059f1, type: 3}
-  m_Name: YellowSquare
+  m_Script: {fileID: 11500000, guid: ad658b191b547ab4a8dba97ae8da50e9, type: 3}
+  m_Name: RedShirt
   m_EditorClassIdentifier: 
   sprite: {fileID: 21300000, guid: caf2f1e08908a4e4e96d2f7615ab1fae, type: 3}
-  color: {r: 1, g: 0.697198, b: 0, a: 1}
-  prefab: {fileID: 8821217276306754067, guid: b79c4adfdb2f61b4ca3fcd12a090850a, type: 3}
-  weapon: {fileID: 11400000, guid: 76f46cd985b981443a602dfca098cbc5, type: 2}
+  spriteColor: {r: 1, g: 0.19551288, b: 0, a: 1}
+  prefab: {fileID: 8821217276306754067, guid: a1e41a264206d644fba8570052cc3bca, type: 3}
