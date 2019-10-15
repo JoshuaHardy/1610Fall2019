@@ -25,6 +25,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/3b/46392de1/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/CinemachineController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC10DD4A-D9F3-4AA9-8E69-1E49A48C7111/be/37707973/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,6 +59,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/CinemachineController.cs" />
       </list>
     </option>
   </component>
@@ -120,6 +122,7 @@
       <workItem from="1570135569014" duration="4113000" />
       <workItem from="1570568203474" duration="3532000" />
       <workItem from="1570739788346" duration="4228000" />
+      <workItem from="1571172078241" duration="3216000" />
     </task>
     <servers />
   </component>
